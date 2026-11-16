@@ -1,0 +1,6 @@
+numpy
+pillow
+# optional, for the GeoPandas/leafmap map builder:
+geopandas
+leafmap
+mapclassify
